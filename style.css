@@ -1,0 +1,29 @@
+img{
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+body{
+  font-family: aclonica;
+  background-color: #eab676;
+  
+}
+h2{
+  color: #7b7566;
+}
+a {
+  text-decoration: none;
+}
+a:hover{
+  color: deeppink;
+}
+a:visited{
+  color: lightcyan;
+}
+.a2{
+  text-align: center;
+  display: block;
+}
